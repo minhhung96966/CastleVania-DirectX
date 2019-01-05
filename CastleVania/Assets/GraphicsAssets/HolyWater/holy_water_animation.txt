@@ -1,0 +1,43 @@
+Sprite holy_water
+R	G	B
+255	255	255	255
+Animation Count
+4
+
+
+Name
+holy_water_right
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+4			2			8				8				0			0
+
+
+Name
+holy_water_fire_right
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+21			1			6				12				0			0
+32			0			16				13				0			0
+
+
+Name
+holy_water_left
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+84			2			8				8				0			0
+
+
+Name
+holy_water_fire_left
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+69			1			6				12				0			0
+48			0			16				13				0			0

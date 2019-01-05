@@ -1,0 +1,29 @@
+#pragma once
+#include <unordered_map>
+#include <d3dx9.h>
+
+using namespace std;
+
+
+enum TEXTURE_NAME
+{
+	TEXTURE_SIMON, TEXTURE_ZOOMBIE, TEXTURE_MIXTURE, TEXURE_MORNING_STAR, TEXTURE_TILESHEET,
+	TEXTURE_PANTHER, TEXTURE_GATE2, TEXTURE_BRICK, TEXTURE_BREAKWALL1, TEXTURE_BREAKWALL2,
+	TEXTURE_MERMAN, TEXTURE_BAT, TEXTURE_WATER, TEXTURE_BLACK_BRICK, TEXTURE_KNIFE,
+	TEXTURE_SCOREBAR_ITEM, TEXTURE_SCOREBAR, TEXTURE_VAMPIREBAT, TEXTURE_THEAX,
+	TEXTURE_HOLYWATER
+};
+
+class TextureManager
+{
+	static TextureManager * __instance;
+
+	unordered_map<TEXTURE_NAME, LPDIRECT3DTEXTURE9> textures;
+public:
+	TextureManager();
+	void Add(TEXTURE_NAME name, LPCWSTR filePath, D3DCOLOR transparentColor);
+	LPDIRECT3DTEXTURE9 Get(TEXTURE_NAME name);
+
+	static TextureManager * GetInstance();
+};
+

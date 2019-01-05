@@ -1,0 +1,35 @@
+SpriteAnimation Candle
+A	R		G		B
+255	255		255		255
+Count
+3
+
+
+Name Opening
+Animation
+Frame Count
+2
+
+LocationX		LocationY		FrameWidth		FrameHeight             AnchorX             AnchorY
+    24				0				24				48                  0                       0
+    0				0				24				48                  0                       0
+
+
+Name Opened
+Animation
+Frame Count
+1
+
+LocationX		LocationY		FrameWidth		FrameHeight             AnchorX             AnchorY
+    0				0				24				48                      0                   0
+
+
+Name Closing
+Animation
+Frame Count
+2
+
+LocationX		LocationY		FrameWidth		FrameHeight             AnchorX             AnchorY
+    24				0				24				48                  0                       0
+    0				0				24				48                  0                       0
+	

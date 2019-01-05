@@ -1,0 +1,31 @@
+Sprite TheAx
+R	G	B
+255	255	255	255
+Animation Count
+2
+
+
+Name
+the_ax_right
+Frame Count
+4
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+0			0			15				14				0			0
+15			0			15				14				0			0
+30			0			15				14				0			0
+45			0			15				14				0			0
+
+
+Name
+the_ax_left
+Frame Count
+4
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+60			0			15				14				0			0
+75			0			15				14				0			0
+90			0			15				14				0			0
+105			0			15				14				0			0
+
+

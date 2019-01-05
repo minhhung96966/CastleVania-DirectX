@@ -1,0 +1,14 @@
+SpriteAnimation item_magic_lamp
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+1
+
+	LocationX		LocationY		FrameWidth		FrameHeight			AnchorX			AnchorY
+		59	21	13	16	0	0

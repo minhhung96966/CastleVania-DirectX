@@ -1,0 +1,14 @@
+SpriteAnimation item_small_heart
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+1
+
+	LocationX		LocationY		FrameWidth		FrameHeight			AnchorX			AnchorY
+			100				88				8				8				0			0

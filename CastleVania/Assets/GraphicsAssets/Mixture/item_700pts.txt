@@ -1,0 +1,14 @@
+SpriteAnimation 700pts
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+1
+
+	LocationX		LocationY		FrameWidth		FrameHeight			AnchorX			AnchorY
+		64			    84				15			    15					0				0

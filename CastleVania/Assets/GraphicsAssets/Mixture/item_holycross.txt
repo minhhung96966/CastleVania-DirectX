@@ -1,0 +1,14 @@
+SpriteAnimation holycross
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+1
+
+	LocationX		LocationY		FrameWidth		FrameHeight			AnchorX			AnchorY
+		107			    41				16			    16					0				0

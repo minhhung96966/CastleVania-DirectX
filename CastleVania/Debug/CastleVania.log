@@ -1,0 +1,398 @@
+﻿  ActiveWater.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(42): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\activewater.cpp(49): warning C4305: 'argument': truncation from 'double' to 'float'
+  Animation.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\animation.cpp(30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\animation.cpp(31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\animation.cpp(38): warning C4018: '>=': signed/unsigned mismatch
+  BaseObject.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(332): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\baseobject.cpp(394): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Bat.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\bat.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\bat.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\bat.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\bat.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\bat.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BreakWall1.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  BreakWall2.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Brick.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  ItemEndGame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\itemendgame.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\itemendgame.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ItemIncreaseHealth.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ItemMagicLamp.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  ItemTheAx.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SubWeaponHolyWater.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweaponholywater.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweaponholywater.cpp(11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweaponholywater.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweaponholywater.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+  SubWeaponKnife.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweaponknife.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweaponknife.cpp(11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ListGateInstance.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  ListSubWeaponInstance.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\listsubweaponinstance.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  MermanBulletListInstance.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\mermanbulletlistinstance.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  Camera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\camera.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\camera.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Candle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Cell.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Collision.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\collision.cpp(142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\collision.cpp(143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  debug.cpp
+  DelayTime.cpp
+  Enemy.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\enemy.cpp(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\enemy.cpp(89): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\enemy.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+  ExplosionEffect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  FrameAnimation.cpp
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Gate1.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Gate2.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GiftBox.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Grid.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\grid.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  HandleGameKeyBoard.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\handlegamekeyboard.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\handlegamekeyboard.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\handlegamekeyboard.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\handlegamekeyboard.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\handlegamekeyboard.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Item.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\item.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\item.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Item1000pts.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Item400pts.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Item700pts.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ItemBigHeart.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ItemHolycross.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  ItemHolyWater.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ItemKnife.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ItemMorningStar.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Generating Code...
+  Compiling...
+  ItemSmallHeart.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Merman.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\merman.cpp(77): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\merman.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\merman.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+  MermanBullet.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\mermanbullet.cpp(41): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\mermanbullet.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\mermanbullet.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\mermanbullet.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\mermanbullet.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MorningStar.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  ObjectTagGroupManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Panther.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\panther.cpp(32): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\panther.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
+  Player.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\player.cpp(64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\player.cpp(65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\player.cpp(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\player.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\player.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\player.cpp(187): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\player.cpp(188): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameTime.cpp
+  GameUtils.cpp
+  GraphicsAssets.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  GraphicsAssetsManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  ScoreBar.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  Stair.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  SubWeapon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  TeleportStair.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\teleportstair.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\teleportstair.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\teleportstair.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\teleportstair.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TextureManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  SubWeaponTheAx.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweapontheax.cpp(9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweapontheax.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweapontheax.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\subweapontheax.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Tilemap.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\tilemap.cpp(48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\tilemap.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\tilemap.cpp(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\tilemap.cpp(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\tilemap.cpp(59): warning C4018: '<=': signed/unsigned mismatch
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\tilemap.cpp(61): warning C4018: '<=': signed/unsigned mismatch
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\tilemap.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Torch.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  VampireBat.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(63): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(67): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(88): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(92): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(106): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(110): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(122): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(126): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(182): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(184): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\vampirebat.cpp(186): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Water.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  WaterListInstance.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\waterlistinstance.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  WinMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\scorebar.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\winmain.cpp(65): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\winmain.cpp(151): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  Level.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\level.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  WorldChildManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\worldchildmanager.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\worldchildmanager.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\worldchildmanager.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\worldchildmanager.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\worldchildmanager.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Zoombie.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\game.h(9): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\zoombie.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minhhungprogrammer\downloads\gamecastlevania\castlevania\zoombie.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  CastleVania.vcxproj -> C:\Users\minhhungprogrammer\Downloads\GameCastleVania\Debug\CastleVania.exe

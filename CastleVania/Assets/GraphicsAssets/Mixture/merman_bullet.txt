@@ -1,0 +1,14 @@
+SpriteAnimation merman_bullet
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+1
+
+	LocationX		LocationY		FrameWidth		FrameHeight			AnchorX			AnchorY
+			40				65				7				6				0			0

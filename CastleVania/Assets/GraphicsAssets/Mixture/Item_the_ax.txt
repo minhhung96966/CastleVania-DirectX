@@ -1,0 +1,14 @@
+SpriteAnimation item_the_ax
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+1
+
+	LocationX		LocationY		FrameWidth		FrameHeight			AnchorX			AnchorY
+		96		2			15			14			0			0

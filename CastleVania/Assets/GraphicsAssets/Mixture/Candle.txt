@@ -1,0 +1,16 @@
+SpriteAnimation Candle
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+2
+
+LocationX		LocationY		FrameWidth		FrameHeight             AnchorX             AnchorY
+37              21              8               16                      0                   0
+47              21              8               16                      0                   0
+	

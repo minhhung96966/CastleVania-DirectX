@@ -1,0 +1,225 @@
+Sprite simon
+R	G	B
+255	255	255	255
+Animation Count
+22
+
+
+Name
+StandRight
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+0			1			16				30				4			0
+
+
+Name
+GoRight
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+0			1			16				30				4			0
+16			0			12				31				3			0
+28			1			15				30				5			0
+
+
+Name
+FlyRight
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+43			8			16				23				4			0
+
+
+Name
+SeatRight
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+43			8			16				23				4			0
+
+
+Name
+GoUpStairRight
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+59			0			12				31				4			0
+71			2			15				29				5			0
+
+
+Name
+GoDownStairRight
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+86			2			16				29				5			0
+16			0			12				31				4			0
+
+
+Name
+StandAttackRight
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+102			1			24				30				8			0
+126			1			16				30				0			0
+142			2			22				29				0			-1
+
+
+Name
+SeatAttackRight
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+164			8			24				23				8			0
+188			8			16				23				0			0
+204			9			22				22				0			-1
+
+
+Name
+EatEffectRight
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+226			1			16				30				4			0
+242			1			16				30				4			0
+258			1			16				30				4			0
+
+
+Name
+DieRight
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+274			2			16				29				8			0
+
+
+Name
+deadright
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+290			16			32				15				0			0
+
+
+Name
+StandLeft
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+322			1			16				30				12			0
+
+
+Name
+GoLeft
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+338			1			15				30				10			0
+353			0			12				31				9			0
+322			1			16				30				12			0
+
+
+Name
+FlyLeft
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+365			8			16				23				12			0
+
+
+Name
+SeatLeft
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+365			8			16				23				12			0
+
+
+Name
+GoUpStairLeft
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+381			2			15				29				10			0
+396			0			12				31				8			0
+
+
+Name
+GoDownStairLeft
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+408			2			16				29				10			0
+353			0			12				31				8			0
+
+
+Name
+StandAttackLeft
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+424			1			24				30				16			0
+448			1			16				30				16			-1
+464			2			22				29				22			-1
+
+
+Name
+SeatAttackLeft
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+486			8			16				23				16			0
+502			8			24				23				16			-1
+526			9			22				22				22			0
+
+
+Name
+EatEffectLeft
+Frame Count
+3
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+548			1			15				30				15			-1
+563			1			15				30				11			0
+578			1			15				30				11			0
+
+
+Name
+DieLeft
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+593			2			16				29				8			0
+
+
+Name
+deadleft
+Frame Count
+1
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+609			16			32				15				0			0
+
+

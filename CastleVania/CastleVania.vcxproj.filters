@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{eced38b8-baf5-42cd-bf03-5942bbfcd9ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{9b94f57e-8eec-4665-bfbb-fcb8964030e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event">
+      <UniqueIdentifier>{82ce20ea-8c49-45a5-b35d-90145c92e29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision">
+      <UniqueIdentifier>{afe4aadc-f55d-49ab-abd9-2837e45242bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TileMap">
+      <UniqueIdentifier>{9f1aded5-18fa-4414-b890-5b20b96ebae4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level1">
+      <UniqueIdentifier>{511e7d86-7ce9-41f5-99ca-e2d3ec19bee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\FatherObject">
+      <UniqueIdentifier>{dfff2f63-ff2c-4614-9553-9ebf449f32ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject">
+      <UniqueIdentifier>{0e27f45e-2b50-432a-9b84-98380e374768}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\Gate">
+      <UniqueIdentifier>{dd3a8505-9f06-46fb-8492-5b9ac128b647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\Player">
+      <UniqueIdentifier>{08fb6fa5-4913-4646-bbd8-3daeee3f994c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\Player\PlayerWeapon">
+      <UniqueIdentifier>{29f0b058-9a5c-41ba-abc8-d0705404665e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\Item">
+      <UniqueIdentifier>{4e83ceb3-fd45-4b3b-9d1b-db774896aa84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\Enemy">
+      <UniqueIdentifier>{03b21c3a-ab72-4438-a1f0-b50ec0f0170b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Grid">
+      <UniqueIdentifier>{b3fb7be7-9a8a-45cd-8e1c-c91dc8ef36cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\Camera">
+      <UniqueIdentifier>{7c1658fe-ea01-4f0b-83c5-d8566882e9bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\GiftBox">
+      <UniqueIdentifier>{c565c015-e49d-4449-b829-9ca0a03c44a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\OtherObjects">
+      <UniqueIdentifier>{8c79d3ed-8d6c-4269-b4a1-6ff65579f274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ChildObject\Player\PlayerWeapon\SubWeapon">
+      <UniqueIdentifier>{1bfdef58-e818-42b0-b0dd-e663c6074002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{962bb13f-10de-49d3-a3b4-3a349124d043}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameAnimation.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="GameUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tilemap.h">
+      <Filter>TileMap</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsAssets.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsAssetsManager.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyEventHandler.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="HandleGameKeyBoard.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldChildManager.h">
+      <Filter>Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="Gate1.h">
+      <Filter>Object\ChildObject\Gate</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectTagGroupManager.h">
+      <Filter>Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Object\ChildObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MorningStar.h">
+      <Filter>Object\ChildObject\Player\PlayerWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Zoombie.h">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMorningStar.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemBigHeart.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseObject.h">
+      <Filter>Object\FatherObject</Filter>
+    </ClInclude>
+    <ClInclude Include="DelayTime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemKnife.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Panther.h">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Object\ChildObject\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Stair.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="ExplosionEffect.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Candle.h">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Torch.h">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClInclude>
+    <ClInclude Include="GiftBox.h">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Item1000pts.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item700pts.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item400pts.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemHolycross.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemHolyWater.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemSmallHeart.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Gate2.h">
+      <Filter>Object\ChildObject\Gate</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakWall1.h">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakWall2.h">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClInclude>
+    <ClInclude Include="TeleportStair.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Merman.h">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="MermanBullet.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="MermanBulletListInstance.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterListInstance.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="ListGateInstance.h">
+      <Filter>Object\ChildObject\Gate</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreBar.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ActiveWater.h">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="VampireBat.h">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="ListSubWeaponInstance.h">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemTheAx.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMagicLamp.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemIncreaseHealth.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWeapon.h">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWeaponKnife.h">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWeaponTheAx.h">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWeaponHolyWater.h">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemEndGame.h">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameAnimation.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="GameUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tilemap.cpp">
+      <Filter>TileMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsAssets.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsAssetsManager.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="HandleGameKeyBoard.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldChildManager.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Gate1.cpp">
+      <Filter>Object\ChildObject\Gate</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectTagGroupManager.cpp">
+      <Filter>Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Object\ChildObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Zoombie.cpp">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemMorningStar.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemBigHeart.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseObject.cpp">
+      <Filter>Object\FatherObject</Filter>
+    </ClCompile>
+    <ClCompile Include="DelayTime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemKnife.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="MorningStar.cpp">
+      <Filter>Object\ChildObject\Player\PlayerWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Panther.cpp">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Object\ChildObject\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Stair.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplosionEffect.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Candle.cpp">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Torch.cpp">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClCompile>
+    <ClCompile Include="GiftBox.cpp">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Item1000pts.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item700pts.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item400pts.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemHolycross.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemHolyWater.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemSmallHeart.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Gate2.cpp">
+      <Filter>Object\ChildObject\Gate</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakWall1.cpp">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakWall2.cpp">
+      <Filter>Object\ChildObject\GiftBox</Filter>
+    </ClCompile>
+    <ClCompile Include="TeleportStair.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Merman.cpp">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="MermanBullet.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="MermanBulletListInstance.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterListInstance.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="ListGateInstance.cpp">
+      <Filter>Object\ChildObject\Gate</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreBar.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ActiveWater.cpp">
+      <Filter>Object\ChildObject\OtherObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="VampireBat.cpp">
+      <Filter>Object\ChildObject\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="ListSubWeaponInstance.cpp">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemTheAx.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemMagicLamp.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemIncreaseHealth.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWeapon.cpp">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWeaponKnife.cpp">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWeaponTheAx.cpp">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="SubWeaponHolyWater.cpp">
+      <Filter>Object\ChildObject\Player\PlayerWeapon\SubWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemEndGame.cpp">
+      <Filter>Object\ChildObject\Item</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

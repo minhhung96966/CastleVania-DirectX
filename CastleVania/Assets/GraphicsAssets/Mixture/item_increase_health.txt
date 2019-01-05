@@ -1,0 +1,14 @@
+SpriteAnimation item_increase_health
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+1
+
+	LocationX		LocationY		FrameWidth		FrameHeight			AnchorX			AnchorY
+		92				24				16				13				0			0

@@ -1,0 +1,16 @@
+SpriteAnimation ExplosionEffect
+A	R		G		B
+255	0		10		0
+Count
+1
+
+
+Name
+Animation
+Frame Count
+3
+
+LocationX		LocationY		FrameWidth		FrameHeight             AnchorX             AnchorY
+            2               57              15               15             0                   0
+            2               74              15               15             0                   0
+			2				92				15			 	 15             0                   0

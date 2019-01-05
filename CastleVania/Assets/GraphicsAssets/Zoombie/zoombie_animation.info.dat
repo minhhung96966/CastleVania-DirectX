@@ -1,0 +1,27 @@
+Sprite zoombie_animation
+R	G	B
+255	255	255	255
+Animation Count
+2
+
+
+Name
+Animation
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+0			0			16				32				0			0
+16			0			16				32				0			0
+
+
+Name
+Animation
+Frame Count
+2
+
+FrameX		FrameY		FrameWidth		FrameHeight		AnchorX		AnchorY
+32			0			16				32				0			0
+48			0			16				32				0			0
+
+
